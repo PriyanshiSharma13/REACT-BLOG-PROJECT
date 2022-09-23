@@ -10,14 +10,14 @@ const Data = [
         id: '2',
         category: 'Bollywood',
         imgUrl: 'https://i.pinimg.com/736x/0a/40/f6/0a40f61d4974198f22545e8be7627ec5.jpg',
-        title: 'Kiara Advani-Sidharth Malhotra trend as their dating confession on Koffee With Karan leaves fans in awe',
+        title: 'Kiara Advani-Sidharth Malhotra trend as their dating confession',
         description: 'Kiara relationship with Shershah co-star remained a hot topic discussion throughout the show. While the actress admitted that Sidharth was "more than just a close friend" to her, Karan and Shahid couldnt stop asking her to tell them when they are planning to tie the knot.While Shahid termed the pair good-looking, Karan Johar wondered how gorgeous their kids would be (Kamaal ke bachche honge). '
     },
     {
         id: '3',
         category: 'Bollywood',
         imgUrl: 'https://i.pinimg.com/736x/ca/da/79/cada79314eaa4240cc079a2c1d0b7985.jpg',
-        title: 'Criticising Alia Bhatt for working during her pregnancy is just jealousy, says Ranbir Kapoor: You should be inspired',
+        title: 'Criticising Alia Bhatt for working during her pregnancy is just jealousy',
         description: 'Ranbir Kapoor has spoken about Alia Bhatt working through her pregnancy. The actor said any kind of criticism of Alia was just jealousy. Brahmastra, their first film together, released on September 9.The actor lauded his wife for being out and about promoting her films, Darlings and then Brahmastra, and giving interview and travelling across the country for events, even during her pregnancy.'
     },
     {
@@ -150,7 +150,7 @@ const Data = [
         id: '22',
         category: 'Hollywood',
         imgUrl: 'https://image-cdn.essentiallysports.com/wp-content/uploads/Dwayne-Johnson-The-Rock-3-1.png?width=640',
-        title: 'Dwayne Johnson Could Not Hide His Emotions After Top Hollywood Actress Trolls Him For His “Acting” Skills',
+        title: 'Dwayne Johnson Could Not Hide His Emotions',
         description: 'A year ago, Dwayne Johnson shared a reel on his Instagram. The reel was a compilation of funny moments of him with Emily Blunt in the interviews while promoting ‘Jungle Cruise’. In one of the moments, Blunt trolled ‘The Rock’ for his acting skills.The question in the interview was, “I would like to know if for this movie you both practically develop some particular skill from scratch?”'
     },
     {
@@ -169,7 +169,7 @@ const Data = [
     },
     {
         id: '25',
-        category: 'Latest',
+        category: 'Hollywood',
         imgUrl: 'https://www.deshabhimani.com/images/news/english/large/aa-507072.jpeg',
         title: 'Kate Winslet',
         description: 'Hollywood actress  Kate Winslet  suffered an accident on shooting set where she was filming for her titular role in the historical drama film “Lee”.“Kate slipped an fell and has been taken to hospital as a precautionary measure,” a statement from  her representative read.The film is biopic Lee Miller,considered one of the first people who brought the world’s attention to atrocities done in Nazi Concentration camps.'
@@ -204,7 +204,7 @@ const Data = [
     },
     {
         id: '30',
-        category: 'Hollywood',
+        category: 'LatestArticle',
         imgUrl: 'https://m.media-amazon.com/images/M/MV5BOGZjOWM0OTUtOWQ5ZS00ZWE4LTkwMjYtODg3OWJmYmIyNjI0XkEyXkFqcGdeQXVyMTA3NzU0NDg@._V1_UY317_CR20,0,214,317_AL__QL50.jpg',
         title: 'Tika Sumpter',
         description: 'Tika Sumpter was born in New York and graduated from Marymount Manhattan College. Sumpter began her career as model, before she landed the role of "Layla Williamson" in ABCs daytime soap opera,After she left the soap, Sumpter won a recurring role in the CW series, Gossip Girl (2007), and appeared in the BET sitcom'
@@ -366,7 +366,7 @@ const Data = [
     {
         id: '53',
         category: 'Travel',
-        imgUrl: 'https://www.neverendingfootsteps.com/wp-content/uploads/2012/08/IMG_0289.jpg',
+        imgUrl: 'https://imageio.forbes.com/specials-images/imageserve//628c1d35ad8cfaaa79e5ffbf/0x0.jpg?format=jpg&crop=2000,1125,x0,y90,safe&width=1200',
         title: 'Desert is beautiful !!',
         description: 'First on the list was Ait Benhaddou, is a UNESCO World Heritage Site. It’s a traditional mud-brick city in the high Atlas Mountains that has been featured in so many famous movies. Most notably, it set the scene for both Lawrence of Arabia and Gladiator.Fortunately for us, we had much of the village to ourselves and we able to wander around its alleyways without much disturbance from our tourists or touts.'
     },
@@ -379,7 +379,7 @@ const Data = [
     },
     {
         id: '55',
-        category: 'LatestArticle',
+        category: 'Latest',
         imgUrl: 'https://cdn-bmalj.nitrocdn.com/uirOOtSrYrqqUksKHkiSCjZGZlPeXsmk/assets/static/optimized/rev-d225bf7/images/best-travel-blogs-adventure.jpg',
         title: 'Adventure',
         description: 'Adventure travel is the foundation of our travel blog so we love finding people pushing their limits. These are true adventurers that see the world through the lens of adventure. if you want to be inspired to push your limits, these are the people to follow.An amazing resource of travel guides for all things adventure. When you are planning your next trip, look to this travel blog for everything adventure!'
@@ -418,6 +418,13 @@ const Data = [
         imgUrl: 'https://cdn-bmalj.nitrocdn.com/uirOOtSrYrqqUksKHkiSCjZGZlPeXsmk/assets/static/optimized/rev-d225bf7/images/best-travel-blogs-solo-female.jpg',
         title: 'Solo trips',
         description: 'These solo female travelers are an inspiration giving travel tips and advice on traveling the world solo while empowering women. We have met nearly every one of these amazing travel exerpts and they are as nice in person as they are on their blogs.'
+    },
+    {
+        id: '61',
+        category: 'Travel',
+        imgUrl: 'https://us.123rf.com/450wm/tupungato/tupungato1703/tupungato170300176/74345933-world-landmarks-collage-photo-stack-of-united-states-france-england-spain-brazil-new-zealand-japan-t.jpg?ver=6',
+        title: 'World Tour packages',
+        description: 'With travelers’ desire for new experiences, the rapid global technological advancements, climate change, and other dynamics, the travel and tourism industry is constantly transforming.All the same, there are still rising tourism trends that can help tour operators, Destination Marketing Organizations (DMOs)'
     }
 ]
 
