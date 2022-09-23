@@ -75,6 +75,10 @@
 .random{
     width: 100%;
     height: 43vh;
+    padding: 10px 14px;
+}
+.random img{
+    border-radius: 4px;
 }
 /* --------------- */
 .extensionPage{

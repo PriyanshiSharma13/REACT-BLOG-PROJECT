@@ -52,7 +52,8 @@ const Bollywood = () => {
               </div>            
             <div className="ad">Advertisement</div>
             <div className="random">
-              <img src="http://igetitapps.com/wp-content/uploads/2014/12/3d-Stay-Tuned-Blog-posts-coming-soon.png" alt="not found" width={"98%"} height={"100%"} />
+              {/* <img src="http://igetitapps.com/wp-content/uploads/2014/12/3d-Stay-Tuned-Blog-posts-coming-soon.png" alt="not found" width={"98%"} height={"100%"} /> */}
+              <img src="https://i.pinimg.com/736x/a6/85/86/a6858668d041490ced92daee21a5984d.jpg" alt="not found" width={"100%"} height={"100%"} />
             </div>
             </div>
           </div>
@@ -63,3 +64,7 @@ const Bollywood = () => {
 };
 
 export default Bollywood;
+
+
+
+
